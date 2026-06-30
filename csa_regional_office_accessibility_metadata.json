@@ -1,0 +1,30 @@
+{
+    "project_name": "Smart Regional Office Accessibility System",
+    "algorithm": "Crow Search Algorithm",
+    "total_records": 40,
+    "total_columns": 21,
+    "csa_accuracy": 0.8,
+    "csa_precision": 0.825,
+    "csa_recall": 0.8,
+    "csa_f1_score": 0.8,
+    "ann_accuracy": 0.20000000298023224,
+    "ann_loss": 1.2092491388320923,
+    "regression_metrics": {
+        "MAE": 87.03807104408948,
+        "MSE": 10576.055310438336,
+        "RMSE": 102.83994997294747,
+        "R2_Score": 0.9002457804896835
+    },
+    "csa_best_parameters": {
+        "n_estimators": 249,
+        "max_depth": 11,
+        "min_samples_split": 6,
+        "min_samples_leaf": 1
+    },
+    "saved_files": {
+        "h5": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\csa_regional_office_accessibility_model.h5",
+        "pkl": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\csa_regional_office_accessibility_model.pkl",
+        "yaml": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\csa_regional_office_accessibility_config.yaml",
+        "json": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\csa_regional_office_accessibility_metadata.json"
+    }
+}

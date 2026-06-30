@@ -1,0 +1,27 @@
+ais_best_accuracy: 0.8
+ais_best_parameters:
+  max_depth: 11
+  min_samples_leaf: 1
+  min_samples_split: 6
+  n_estimators: 249
+algorithm: Artificial Immune System
+base_directory: C:\Users\NXTWAVE\Downloads\Smart Regional Office Accessibility
+dataset_path: C:\Users\NXTWAVE\Downloads\Smart Regional Office Accessibility\contact_details_of_regional_branch_offices_of_tiic_31_12_2019.csv
+feature_columns:
+- Regional_and_Branch_Code
+- Names_of_Regional__Branch__Satellite_Offices
+- Designation
+- District
+- Office_Type
+- Pincode_Numeric
+- Phone_Count
+- Has_Email
+- Estimated_Business_Density
+- Estimated_MSME_Count
+- Estimated_Distance_Index
+- Estimated_Population_Coverage
+h5_model: C:\Users\NXTWAVE\Downloads\Smart Regional Office Accessibility\ais_regional_office_accessibility_model.h5
+pkl_model: C:\Users\NXTWAVE\Downloads\Smart Regional Office Accessibility\ais_regional_office_accessibility_model.pkl
+project_name: Smart Regional Office Accessibility System
+regression_target: Service_Demand_Score
+target_column: Demand_Category

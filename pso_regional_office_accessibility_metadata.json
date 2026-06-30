@@ -1,0 +1,30 @@
+{
+    "project_name": "Smart Regional Office Accessibility System",
+    "algorithm": "Particle Swarm Optimization",
+    "total_records": 40,
+    "total_columns": 21,
+    "pso_accuracy": 0.8,
+    "pso_precision": 0.825,
+    "pso_recall": 0.8,
+    "pso_f1_score": 0.8,
+    "ann_accuracy": 0.10000000149011612,
+    "ann_loss": 1.2397220134735107,
+    "regression_metrics": {
+        "MAE": 87.03807104408948,
+        "MSE": 10576.055310438336,
+        "RMSE": 102.83994997294747,
+        "R2_Score": 0.9002457804896835
+    },
+    "pso_best_parameters": {
+        "n_estimators": 249,
+        "max_depth": 11,
+        "min_samples_split": 6,
+        "min_samples_leaf": 1
+    },
+    "saved_files": {
+        "h5": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\pso_regional_office_accessibility_model.h5",
+        "pkl": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\pso_regional_office_accessibility_model.pkl",
+        "yaml": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\pso_regional_office_accessibility_config.yaml",
+        "json": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\pso_regional_office_accessibility_metadata.json"
+    }
+}

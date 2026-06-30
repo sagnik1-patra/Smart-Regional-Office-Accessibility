@@ -1,0 +1,20 @@
+{
+    "project_name": "Smart Regional Office Accessibility System",
+    "total_records": 40,
+    "total_columns": 21,
+    "best_model": "Decision Tree",
+    "ann_accuracy": 0.5,
+    "ann_loss": 0.948414146900177,
+    "regression_metrics": {
+        "MAE": 82.4708338000004,
+        "MSE": 9218.098959337065,
+        "RMSE": 96.01093145750157,
+        "R2_Score": 0.9130541359641
+    },
+    "saved_files": {
+        "h5": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\regional_office_accessibility_model.h5",
+        "pkl": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\regional_office_accessibility_model.pkl",
+        "yaml": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\regional_office_accessibility_config.yaml",
+        "json": "C:\\Users\\NXTWAVE\\Downloads\\Smart Regional Office Accessibility\\regional_office_accessibility_metadata.json"
+    }
+}

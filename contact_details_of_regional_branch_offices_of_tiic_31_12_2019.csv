@@ -1,0 +1,41 @@
+Sl.No,Regional and Branch Code,Names of Regional / Branch / Satellite Offices,Designation,Address1,Address2,Address3,Pincode,Email Id,Phone Number
+1,91,Head Office,NA,"New No.692, Anna Salai",Nandanam,Chennai,600035,ho@tiic.org,044-24306100 / 044-24331203
+2,10a,Chennai Regional Appraisal Cell,RAC Head,"New No.692, Anna Salai",Nandanam,Chennai,600035,rapc.chennai@tiic.org,044-48529514
+3,10b,Chennai Branch,Branch Manager,"New No.692, Anna Salai",Nandanam,Chennai,600035,bmchennai@tiic.org,044-48529518
+4,10c,Tiruvallur,Sr.Branch Manager,"86 C and D, Ambattur Industrial Estate",Ambattur,Chennai,600058,bmtiruvallur@tiic.org,044-26257664
+5,10d,Tambaram Branch,Branch Manager,"No.27, First Floor",Rajaji Road,"Tambaram West, Chennai",600045,bmtambaram@tiic.org,044-22260910
+6,10e,Cuddalore,Branch Manager,"No.60/1B, Imperial Plaza, Nellikuppam Main Road","Near District Employment Office, Semmandalam",Cuddalore,607001,bmcuddalore@tiic.org,04142-230831
+7,10f,Vellore,Branch Manager,Vasan ENT Clinic -1st Floor,"No.73/A, Katpadi Main road","Gandhi Nagar, Vellore",632006,bmvellore@tiic.org,0416-2249861
+8,10g,Tiruvannamalai Satellite Office,Office In-charge,"4-A, Lakshmipuram","Bye-pass Road, Gandhi Nagar",Tiruvannamalai,606602,bmtiruvannamalai@tiic.org,04175-253032
+9,10h,Sriperumbudur Satellite Office,Office In-charge,"No.5, Ramanujar Street","No.77, Bangalore Trunk Road, Near Pandian Hospital",Sriperumbudur,602105,bmsriperumbudur@tiic.org,9094068558 / 9080324863 
+10,10i,Gummidipoondi Satellite Office,Office In-charge,"No.711-A, North SIPCOT Road",Gummidipoondi,NA,601201,bmgummidipoondi@tiic.org,9751377679
+11,20a,Coimbatore Regional Appraisal Cell,RAC Head,"No.94, Dr. Nanjappa Road",United Shopping Complex,Coimbatore,641018,rapc.coimbatore@tiic.org,0422-2302231
+12,20b,Coimbatore,Branch Manager,"No.94, Dr. Nanjappa Road",United Shopping Complex,Coimbatore,641018,bmcoimbatore@tiic.org,0422-2380520
+13,20c,Tiruppur,Branch Manager,Kumaran Shopping Complex,"II Floor, Near Railway Station",Tiruppur,641601,bmtiruppur@tiic.org,0421-2207489
+14,20d,Erode,Branch Manager,"C.S. Sengottiah Complex, II Floor","23, Chidambaram Colony, 80 Feet Road","Periyar Nagar, Erode",638001,bmerode@tiic.org,0424-2262080
+15,20e,Kurichi Branch,Branch Manager,"Plot No.91, First Floor, COSIEMA Complex","SIDCO Indl. Estate (West), Kurichi",Coimbatore,641021,bmkurichi@tiic.org,0422-2670084
+16,30a,Madurai Reg. Appraisal Cell,RAC Head,"No.1A, East Cross Street",(First Floor) (Reliance Fresh Upstairs),"Anna Nagar, Madurai",625020,rapc.madurai@tiic.org,0452-2533018
+17,30b,Madurai,Branch Manager,"No.1A, East Cross Street",(First Floor) (Reliance Fresh Upstairs),"Anna Nagar, Madurai",625020,bmmadurai@tiic.org,0452-2533331
+18,30c,Dindigul,Branch Manager,"Plot No.9, Spencer Compound",Tiruvalluvar Salai,Dindigul,624003,bmdindigul@tiic.org,0451-2433785
+19,30d,Karaikkudi Satellite Office,Office In-charge,Shri PPKA Complex II Floor,"Shanmuga Raja Road, Sekkalai Road",Karaikkudi,630002,bmkaraikudi@tiic.org,04565-238746
+20,30e,Ramnad Satellite Office,Office In-charge,"D.No.1130-C, First Floor","Opp. to Sothurani, Ramnad-Rameswaram Road","Bharathi Nagar, Ramanathapuram.",623504,bmramnad@tiic.org,04567-232474
+21,30f,Theni Satellite Office,Office In-charge,"Room No.22, D.No.297","Chinthamani Ammal Complex, Near Kottakudi Palam","Cumbum Road, Theni",625531,bmtheni@tiic.org,04546-251982
+22,40a,Tirunelveli Regional Appraisal Cell,RAC Head,"5C/5B, Shakuntala Shopping","Complex, II Floor, Trivandrum Road","Vannarpettai, Tirunelveli",627003,rapc.tirunelveli@tiic.org,0462-2502721
+23,40b,Tirunelveli,Branch Manager,"5C/5B, Shakuntala Shopping","Complex, II Floor, Trivandrum Road","Vannarpettai, Tirunelveli",627003,bmtirunelveli@tiic.org,0462-2502038
+24,40c,Thoothukudi,Branch Manager,"No.4/35, N.P.S. Complex, Polpettai",Near New Bus Stand,Thoothukudi,628002,bmtuticorin@tiic.org,0461-2346082
+25,40d,Nagercoil,Branch Manager,"No.37, Cape Road",Nagercoil,NA,629001,bmnagercoil@tiic.org,04652-232859
+26,40e,Sivakasi,Branch Manager,"98/C4, IInd Floor",Chairman Shanmuganadar Road,Sivakasi,626123,bmsivakasi@tiic.org,04562-229322
+27,40f,Virudhunagar Satellite Office,Office In-charge,"No.27-C, 1st Floor",Railway Feeder Road,Virudhunagar,626001,bmvirudhunagar@tiic.org,04562-243911
+28,50a,Trichy Reg. Appraisal Cell,RAC Head,"KRT Building, II Floor","No.33, Promenade Road","Cantonment, Trichy",620001,rapc.trichy@tiic.org,0431-2414177
+29,50b,Tiruchirapalli,Branch Manager,"KRT Building, II Floor","No.33, Promenade Road","Cantonment, Trichy",620001,bmtrichy@tiic.org,0431-2460498
+30,50c,Thanjavur,Branch Manager,"2854, N.G.K. Apartment","Opp. Arul Theatre, Nanjikkottai Road",Thanjavur,613001,bmthanjavur@tiic.org,04362-230465
+31,50d,Karur,Branch Manager,"66/1, 5th Cross, 1st Floor",Sengunthapuram,Karur,639002,bmkarur@tiic.org,04324-235581
+32,50e,Villupuram Branch,Branch Manager,"23A,Ranganathan St, Woodlands Complex",Chennai-Trichy Trunk Road,Villupuram,605602,bmvillupuram@tiic.org,04146-229131
+33,50f,Pudukkottai Satellite Office,Office In-charge,"MENA Complex, I Floor","T.S.No.2430/31, West Main Street",Pudukkottai,622001,bmpudukkottai@tiic.org,04322-222354
+34,50g,Perambalur Satellite Office,Office In-charge,"D.No.132, First Floor",Mathanagopalapuram 2nd Street,Perambalur,621212,bmperambalur@tiic.org,04328-276659
+35,50h,Nagappattinam Satellite Office,Office In-charge,"Door No.12/1, LRJ Complex","II Floor,(Opp. to Military Canteen)","Naduvar Keela Street, Nagappattinam",611001,bmnagappattinam@tiic.org,04365-225656
+36,70a,Salem Regional Appraisal Cell,RAC Head,Sri Lakshmi Complex,"4/22, Omalur Main Road",Salem,636004,rapc.salem@tiic.org,0427-2448315
+37,70b,Salem,Branch Manager,"Sri Lakshmi Complex, I Floor","4/22, Omalur Main Road, Swarnapuri",Salem,636004,bmsalem@tiic.org,0427-2440444
+38,70c,Dharmapuri,Branch Manager,DDDC Building (Upstairs),Pennagaram Road,Dharmapuri,636702,bmdharmapuri@tiic.org,04342-260866
+39,70d,Hosur,Branch Manager,"Plot Nos.308 and 309, SIPCOT Housing Colony","SIPCOT Industrial Complex, (Opp. : LAL)","Near SBI/SIPCOT Shopping Complex, Hosur",635126,bmhosur@tiic.org,04344-275596
+40,70e,Namakkal Satellite Office,Office In-charge,"D.No.20/127A-5B, First Floor","80 Feet Road, Salem Road",Namakkal,637001,bmnamakkal@tiic.org,04286-277667
